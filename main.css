@@ -48,3 +48,18 @@ button:hover {
     margin-bottom: 8px;
 }
 
+.success-message {
+    color: rgb(39, 97, 6);
+    font-size: 24px;
+    padding:  16px; 
+    font-weight: bold;
+    display: none;  
+}
+
+.error-message {
+    color: rgb(196, 13, 13);
+    font-size: 24px;
+    padding:  16px; 
+    font-weight: bold;
+    display: none; 
+}
